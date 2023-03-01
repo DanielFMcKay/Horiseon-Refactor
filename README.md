@@ -12,6 +12,8 @@ This README file is for a weekly assignment for the UC Berkeley Coding Boot Camp
   
 * Additionally, I inspected the HTML elements already in the file to make sure they were in a logical structure.
 
+* I also reduced the number of classes in CSS for better optimization, and updated the HTML appropriately.
+
 * Finally, I included coding comments in both the Index.html and style.css files to quickly denote each section and its function, and re-ordered the classes and elements in the style.css file to better reflect their order in the html and visually on the page.
 
 The deployed website can be found at https://danielfmckay.github.io/Horiseon-Refactor/
