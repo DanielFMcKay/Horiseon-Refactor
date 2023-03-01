@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/123746582/222063467-01fdf0cb-cb43-4f73-9bfa-5d174dcb6306.png)
+
 # Horiseon-Refactor
 
 This README file is for a weekly assignment for the UC Berkeley Coding Boot Camp, in which I refactor the code for a fictional marketing agency for readability, accessibility, and search engine optimization.
@@ -12,3 +14,4 @@ This README file is for a weekly assignment for the UC Berkeley Coding Boot Camp
 
 * Finally, I included coding comments in both the Index.html and style.css files to quickly denote each section and its function, and re-ordered the classes and elements in the style.css file to better reflect their order in the html and visually on the page.
 
+The deployed website can be found at https://danielfmckay.github.io/Horiseon-Refactor/
